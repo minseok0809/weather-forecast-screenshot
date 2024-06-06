@@ -15,7 +15,7 @@ pyinstaller -w meteorological_administration_forecast_screenshot.py
 <br><br>
 
 ## Library
-`OpenCV` `Tkinter` `webbrowser` `Selenium` `Matplotlib` 
+`OpenCV` `Tkinter` `webbrowser` `Selenium` `Matplotlib` `PyInstaller`
 
 <br><br>
 
