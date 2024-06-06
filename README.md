@@ -7,7 +7,7 @@
 
 <br><br>
 
-## Turn Your Python Script into an Executable File
+## Turn Your Python Script into Executable File
 ```
 pyinstaller -w meteorological_administration_forecast_screenshot.py
 ```
