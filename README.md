@@ -1,4 +1,4 @@
-# Meteorological Administration Forecast Screenshot
+# Weather Forecast Screenshot
 
 <br>
 
