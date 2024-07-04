@@ -2,7 +2,7 @@
 
 <br>
 
-![meteorological_administration_forecast_screenshot](https://github.com/minseok0809/meteorological_administration_forecast_screenshot/assets/97289420/9551e4a7-5fbb-4801-b690-2272448fb6c3)
+![meteorological_administration_forecast_screenshot](https://github.com/minseok0809/weather-forecast-screenshot/assets/97289420/5f3748c2-b140-4d61-98f5-b47788c46987)
 
 
 <br><br>
